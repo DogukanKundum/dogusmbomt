@@ -8,4 +8,4 @@ assignees: 'dogukanku'
 ---
 
 **to do issue**
-this feature branch will test cases be solution with mbo.
+this feature branch will be solution with migrating birds optimization of test cases.

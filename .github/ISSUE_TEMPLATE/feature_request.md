@@ -1,10 +1,9 @@
 ---
+title: mbo entegration
 name: Feature request
 about: Suggest an idea for this project
-title: 'mbo entegration'
-labels: 'testcasembo'
-assignees: 'dogukanku'
-
+labels: testcasembo
+assignees: dogukanku
 ---
 
 **to do issue**

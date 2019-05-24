@@ -12,7 +12,7 @@ public class TriangleTest3 {
 
     @Test
     public void test1() {
-        final TriangleType type = Triangle.classify(3,-10,-3);
+        final TriangleType type = Triangle.classify(-1,-2,2);
         assertEquals(INVALID, type);
     }
 }
